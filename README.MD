@@ -1,3 +1,5 @@
+Este proyecto es realizado con el fin de retroalimentar a los aspirantes que presenten la prueba tecnica de SkysMobiles sobre frutas
+
 ## Cosas extras
 
 - Tipar el objeto "fruit - detail"
