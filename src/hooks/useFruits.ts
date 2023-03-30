@@ -11,7 +11,7 @@ const mockFruit = {
 } as Fruit
 
 export function useFruits() {
-  const [fruits, setFruits] = useState<Fruit[]>([mockFruit])
+  const [fruits, setFruits] = useState<Fruit[]>([])
   const [isLoading, setIsLoading] = useState(true)
   const [isError, setIsError] = useState(false)
 
